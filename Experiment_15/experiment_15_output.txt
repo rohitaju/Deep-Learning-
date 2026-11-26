@@ -1,0 +1,1 @@
+Experiment {EXP}: {TITLE}\nDataset: deterministic synthetic sample data\n\nAnalytical gradient: ({ga:.6f}, {gb:.6f})\nCentral difference: ({na:.6f}, {nb:.6f})\nGradient error: {np.hypot(ga-na,gb-nb):.2e}\n\nNote: This is a reproducible educational implementation with synthetic data. Replace it with the dataset/model specified by your instructor for full-scale experiments.

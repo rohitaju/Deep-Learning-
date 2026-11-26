@@ -1,0 +1,1 @@
+Experiment {EXP}: {TITLE}\nDataset: deterministic synthetic sample data\n\nInput shape={img.shape}, convolution output={conv.shape}\nMax-pool 2x2 output shape={(15,15)}\n\nNote: This is a reproducible educational implementation with synthetic data. Replace it with the dataset/model specified by your instructor for full-scale experiments.

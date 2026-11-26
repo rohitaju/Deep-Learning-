@@ -1,0 +1,1 @@
+Experiment {EXP}: {TITLE}\nDataset: deterministic synthetic sample data\n\nInput data shape={data.shape}\nTop explained variance ratios: {np.round(var[:4],4)}\n2D projection shape={pcs.shape}\n\nNote: This is a reproducible educational implementation with synthetic data. Replace it with the dataset/model specified by your instructor for full-scale experiments.

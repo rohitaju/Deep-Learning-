@@ -1,0 +1,1 @@
+Experiment {EXP}: {TITLE}\nDataset: deterministic synthetic sample data\n\nActivation at x=-2,0,2: {{k: np.round(np.interp([-2,0,2],z,v),3).tolist() for k,v in funcs.items()}}\n\nNote: This is a reproducible educational implementation with synthetic data. Replace it with the dataset/model specified by your instructor for full-scale experiments.

@@ -1,0 +1,1 @@
+Experiment {EXP}: {TITLE}\nDataset: deterministic synthetic sample data\n\nTrue Gaussian parameters: mean=25, variance=16\nMLE estimates: mean={mu:.3f}, variance={var:.3f}\n\nNote: This is a reproducible educational implementation with synthetic data. Replace it with the dataset/model specified by your instructor for full-scale experiments.
